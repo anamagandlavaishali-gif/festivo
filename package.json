@@ -1,0 +1,21 @@
+{
+  "name": "festivo-college-event-management",
+  "version": "1.0.0",
+  "description": "Festivo - Modern MERN Stack College Event Management System",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "event-management",
+    "festivo"
+  ],
+  "author": "Festivo Engineering Team",
+  "license": "MIT"
+}
